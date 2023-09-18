@@ -53,5 +53,5 @@ public class Prodotto {
         return "Codice: " + codice + "\nNome: " + nome + "\nMarca: " + marca + "\nPrezzo: " + prezzo + "\nIva: " + iva;
     }
 
-
 }
+
